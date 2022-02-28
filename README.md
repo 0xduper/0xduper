@@ -2,7 +2,7 @@
 const aboutme = function() {
   return {
     username: 'Ozzy',    
-    discord: 'ozzy#1553',
+    discord: 'otri#3658',
   }
 }
 ```
