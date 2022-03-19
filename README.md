@@ -1,7 +1,7 @@
 <div align="center">
   
 
-  [![Discord Presence](https://lanyard.cnrad.dev/api/739250213293785119?theme=dark&bg=471ba0&)](https://discord.com/users/739250213293785119) 
+  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/739250213293785119?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/739250213293785119)
   
     
 
